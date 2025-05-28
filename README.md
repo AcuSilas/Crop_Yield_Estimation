@@ -60,7 +60,9 @@ Model Accuracy: 87.76%
 
 Total Importance of Climate Variables: 0.4214 (42.14%)
 
-📌 Use Cases
+
+### 📌 Use Cases
+
 Agricultural planning and policy-making
 
 Precision farming and yield optimization
@@ -69,7 +71,9 @@ Insurance and risk assessment
 
 Research and academic studies in agro-informatics
 
-✅ Future Improvements
+
+### ✅ Future Improvements
+
 Integrate geospatial data (e.g., NDVI, satellite imagery)
 
 Deploy as a web-based prediction tool (e.g., Streamlit or Flask)
@@ -78,5 +82,7 @@ Incorporate time-series data and trends
 
 Extend model to predict yield across multiple years or regions
 
-📜 License
+
+### 📜 License
+
 This project is open-source under the MIT License.
